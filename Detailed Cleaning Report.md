@@ -124,3 +124,4 @@ AND (COUNT(Total_Trans_Ct) > 1)
 AND (COUNT(Total_Ct_Chng_Q4_Q1) > 1)
 AND (COUNT(Avg_Utilization_Ratio) > 1)
 ```
+No duplicates values were found.
