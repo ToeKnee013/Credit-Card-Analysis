@@ -31,4 +31,4 @@ The data was collected by the kaggle user [Sakshi Goyal](https://www.kaggle.com/
 Furthermore, the kaggle usability rating is an astonishing 10.0! This dataset seems to be credible and reliable.
 
 ## Process
-The tools I will be working with are SQL for transforming and surface level analysis, Tableau for visualization of findings, and Microsoft PowerPoint for sharing insights as well as a brief overview of the process.
+The tools I will be working with are MySQL for transforming and surface level analysis, Tableau for visualization of findings, and Microsoft PowerPoint for sharing insights as well as a brief overview of the process.
