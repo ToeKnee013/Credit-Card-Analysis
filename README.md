@@ -10,7 +10,7 @@ Now, this dataset consists of 10,000 customers mentioning their age, salary, mar
 We have only 16.07% of customers who have churned. Thus, it's a bit difficult to train our model to predict churning customers.
 
 ## Ask
-### **Primary Buissness Problem: Customers churning rates are increasing**
+### **Primary Buisness Problem: Customers churning rates are increasing**
 Questions we should be aiming to answer:
 
 1. Why are customers churning?
@@ -18,3 +18,8 @@ Questions we should be aiming to answer:
 3. What kind of demographic are we working with?
 
 ## Prepare
+The data was collected by the kaggle user [Sakshi Goyal](https://www.kaggle.com/sakshigoyal7) through the website URL https://leaps.analyttica.com/home. The website is used to explain how to solve a praticular business problem.
+
+Furthermore, the kaggle usability rating is an astonishing 10.0! This dataset seems to be credibile and reliable.
+
+## Process
