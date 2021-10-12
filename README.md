@@ -9,13 +9,13 @@ Now, this dataset consists of 10,000 customers mentioning their age, salary, mar
 
 We have only 16.07% of customers who have churned. Thus, it's a bit difficult to train our model to predict churning customers.
 
-The project will be broken into 6 parts through the use of a strategy found in the Google Data Analytics program.
-1. Ask: Define the problem.
-2. Prepare: Understand how the data was gathered and if it is credible.
-3. Process: Create, clean, and transform data.
-4. Analyze: Use tools to identify patterns, make predictions, recommendations and data-driven decisions.
-5. Share: Create effective visuals, bring data to life and tell a story.
-6. Act: Apply insights and solve problems.
+#### This project will be broken into 6 parts through the use of a strategy found in the Google Data Analytics program.
+1. **Ask:** Define the problem.
+2. **Prepare:** Understand how the data was gathered and if it is credible.
+3. **Process:** Create, clean, and transform data.
+4. **Analyze:** Use tools to identify patterns, make predictions, recommendations and data-driven decisions.
+5. **Share:** Create effective visuals, bring data to life and tell a story.
+6. **Act:** Apply insights and solve problems.
 
 ## Ask
 ### **Primary Business Problem: Customers churning rates are increasing**
