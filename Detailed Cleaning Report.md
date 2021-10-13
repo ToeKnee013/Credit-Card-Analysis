@@ -124,4 +124,4 @@ AND (COUNT(Total_Trans_Ct) > 1)
 AND (COUNT(Total_Ct_Chng_Q4_Q1) > 1)
 AND (COUNT(Avg_Utilization_Ratio) > 1)
 ```
-No duplicates values were found.
+No duplicate values were found. It is clear that the creator of the dataset properly cleaned it. Check out the analysis journal for the next steps.
