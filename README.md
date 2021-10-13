@@ -40,4 +40,12 @@ The tools I will be working with are MySQL for transforming and surface level an
 ## Analyze
 Recall our primary business problem is that customer churning rates are increasing. We can find trends in the data that may associate with the churning rates. We can ask questions based on the data such as:
 
-1. What is the distribution of card holders based on gender, marital status, age, income, and education?
+1. What is the distribution of card holders based on:
+   - Gender
+   - Marital status
+   - Age
+   - Income
+   - Education
+   - Dependent count
+   - Credit Limit
+   - Average Utilization Ratio
