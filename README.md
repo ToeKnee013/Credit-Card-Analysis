@@ -1,7 +1,7 @@
 # Credit Card Customers Analysis
 
 ## Project Overview
-*The following is a description straight from the [credit card customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers) website.*
+*The following is a description from the [credit card customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers) Kaggle page.*
 
 A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction
 
