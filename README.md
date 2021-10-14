@@ -26,9 +26,9 @@ Questions we should be aiming to answer:
 3. What kind of demographic are we working with?
 
 ## Prepare
-The data was collected by the kaggle user [Sakshi Goyal](https://www.kaggle.com/sakshigoyal7) through the website URL https://leaps.analyttica.com/home. The website is used to explain how to solve a particular business problem.
+The data was collected by the Kaggle user [Sakshi Goyal](https://www.kaggle.com/sakshigoyal7) through the website URL https://leaps.analyttica.com/home. The website is used to explain how to solve a particular business problem.
 
-Furthermore, the kaggle usability rating is an astonishing 10.0! This dataset seems to be credible and reliable.
+Furthermore, the Kaggle usability rating is an astonishing 10.0! This dataset seems to be credible and reliable.
 
 ## Process
 The tools I will be working with are MySQL for transforming and surface level analysis, Tableau for visualization of findings, and Microsoft PowerPoint for sharing insights as well as a brief overview of the process. Below is a brief summary of the process.
